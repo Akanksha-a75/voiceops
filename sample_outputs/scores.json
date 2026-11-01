@@ -1,0 +1,17 @@
+{
+  "step1": {
+    "n": 52,
+    "passed": 11,
+    "pass_rate": 0.212,
+    "facts_ok": 13,
+    "decision_ok": 32
+  },
+  "step2": {
+    "n": 52,
+    "passed": 32,
+    "pass_rate": 0.615,
+    "facts_ok": 33,
+    "decision_ok": 44,
+    "retrieval_recall": 0.869
+  }
+}

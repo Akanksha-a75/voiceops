@@ -1,0 +1,8 @@
+﻿data_local/
+.env
+.venv/
+__pycache__/
+
+pack.txt
+pack.py
+HANDOFF.md
